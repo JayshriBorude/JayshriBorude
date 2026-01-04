@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @JayshriBorude
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m Jayshri Borude  
 
-<!---
-JayshriBorude/JayshriBorude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩‍💻 **Front-End Development Enthusiast** with a growing interest in building clean, responsive, and user-friendly web interfaces.  
+
+### 👀 Interests  
+- Front-End Development  
+- AIML Developer 
+
+### 🌱 Currently Learning  
+- Full Stack Development  
+- Depp Learning and Generative AI  
+- Backend Basics & Databases  
+
+### 💡 Skills  
+- HTML, CSS, JavaScript  
+- Responsive Web Design  
+- Git & GitHub  
+- Basic Python & Java  
+
+### 📫 How to Reach Me  
+- 📧 Email: **jayshriborude196@gmail.com**  
+- 💼 GitHub:(https://github.com/JayshriBorude)
+
+---
+
+✨ *Always eager to learn new technologies and improve my development skills through hands-on projects.*
